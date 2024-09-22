@@ -10,7 +10,8 @@ Notification System: Stay updated with appointment reminders, and important mess
 WhatsApp-like UI for Messaging: Custom chat interface resembling WhatsApp for real-time communication.
 
 ## Screenshots
-![HealthHubb (1)](https://github.com/user-attachments/assets/7f89c205-d3f5-472a-82b7-d48267f5d1ae)
+![HealthHubb (1)](https://github.com/user-attachments/assets/8b65ebb1-0d9e-4aee-9d4f-a6ec4af96de5)
+
 
 
 
