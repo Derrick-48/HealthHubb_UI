@@ -7,20 +7,13 @@ const tintColorLight = '#0a7ea4';
 const tintColorDark = '#fff';
 
 export const Colors = {
-  light: {
-    text: '#11181C',
-    background: '#fff',
-    tint: tintColorLight,
-    icon: '#687076',
-    tabIconDefault: '#687076',
-    tabIconSelected: tintColorLight,
-  },
-  dark: {
-    text: '#ECEDEE',
-    background: '#151718',
-    tint: tintColorDark,
-    icon: '#9BA1A6',
-    tabIconDefault: '#9BA1A6',
-    tabIconSelected: tintColorDark,
-  },
+ blue: '#0084FF',
+ white: '#fff',
+ background: "#fff", 
+ lightBlue: "#abc3df",
+ border: 'rgba(232, 232, 233, 0.3)' /* 80% opacity */,  
+ textgrey: 'rgba(229, 229, 229, 0.9)' ,
+ hColor: "rgba(0, 123, 255, 0.1)"     // Light gray used for borders and dividers
 };
+
+
