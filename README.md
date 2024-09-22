@@ -1,50 +1,80 @@
-# Welcome to your Expo app 👋
+# HealthHubb - Hospital Booking App UI
+HealthHubb is a React Native application designed to streamline hospital bookings for users. It offers an intuitive interface for patients to schedule appointments, view doctor availability, and manage their health records.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Features
+Profile Management: Users can create and manage their profiles, including updating personal details, profile pictures, and medical information.
+Appointment Booking: Easily book appointments with doctors, view available time slots, and receive notifications for upcoming appointments.
+Doctor Listings: View detailed profiles of doctors, including specialties, experience, and patient reviews.
+Chat Integration: Chat with healthcare providers and customer support.
+Notification System: Stay updated with appointment reminders, and important messages.
+WhatsApp-like UI for Messaging: Custom chat interface resembling WhatsApp for real-time communication.
 
-## Get started
+## Screenshots
+![HealthHubb (1)](https://github.com/user-attachments/assets/7f89c205-d3f5-472a-82b7-d48267f5d1ae)
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## Tech Stack
+React Native: Core framework for building the mobile app.
+Expo Router: Latest file-based routing for intuitive navigation.
 
-   ```bash
-    npx expo start
-   ```
+## Installation
+Clone the repository:
 
-In the output, you'll find options to open the app in a
+bash
+Copy code
+git clone https://github.com/Derrick-48/healthhubb.git
+Install dependencies:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+bash
+Copy code
+cd healthhubb
+npm install
+Run the app (make sure Expo CLI is installed):
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+bash
+Copy code
+npx expo start
+For Android:
 
-## Get a fresh project
+bash
+Copy code
+npm run android
+For iOS:
 
-When you're ready, run:
+bash
+Copy code
+npm run ios
 
-```bash
-npm run reset-project
-```
+## Usage
+Browse through available doctors and book appointments.
+Use the chat feature to communicate with healthcare providers.
+View your upcoming appointments in the dashboard.
+Contributing
+Feel free to submit issues, fork the repository, and send pull requests! Contributions are always welcome.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Fork the project.
+Create your feature branch:
+bash
+Copy code
+git checkout -b feature/AmazingFeature
+Commit your changes:
+bash
+Copy code
+git commit -m 'Add some AmazingFeature'
+Push to the branch:
+bash
+Copy code
+git push origin feature/AmazingFeature
+Open a pull request.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Learn more
+## Contact
+If you have any questions or suggestions, feel free to reach out:
 
-To learn more about developing your project with Expo, look at the following resources:
+Email: kelloderrick48@gmail.com
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+LinkedIn: https://www.linkedin.com/in/derrick-kello-3822b0263/
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+GitHub: Kello Derrick Jnr (Derrick-48) 
